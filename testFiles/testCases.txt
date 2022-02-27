@@ -1,0 +1,19 @@
+State v. Shapiro (1975)
+Defendant charged with offense requiring a mental state of “knowingly” argued that the evidence
+was insufficient because there was no indication she desired or hoped for a particular result.
+Held: Conviction affirmed. Although a defendant who acted purposefully or who intended a
+particular result certainly acted knowingly, MPC 18-103 makes clear there is no such
+requirement.
+State v. Bladow (2019)
+Defendant argued that his conviction for aggravated arson MPC 18-402 was not supported by the
+manifest weight of the evidence and that the State had not offered sufficient evidence of an intent
+to cause physical harm to another person when he acted. Held: Conviction affirmed. The General
+Assembly conspicuously used the “knowingly” mens rea in MPC 18-402, not “purposeful” or
+language that mandates a specific intent to harm. Moreover, all that is needed for a conviction for
+aggravated arson is “to create a substantial risk of serious physical harm to any person other than
+the offender.” While actual harm is sufficient to satisfy MPC 18-402, it is not a necessary
+element if a substantial risk of serious physical harm is present.
+State v. Baker (2000)
+As used in MPC 18-402, “substantial risk” means a strong possibility, as contrasted with a
+remote or significant possibility, that a certain result may occur or that certain circumstances
+may exist.

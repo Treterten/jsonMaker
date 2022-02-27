@@ -1,0 +1,291 @@
+State v. Shapiro (1975)
+Defendant charged with offense requiring a mental state of “knowingly” argued that the evidence
+was insufficient because there was no indication she desired or hoped for a particular result.
+Held: Conviction affirmed. Although a defendant who acted purposefully or who intended a
+particular result certainly acted knowingly, MPC 18-103 makes clear there is no such
+requirement.
+State v. Bladow (2019)
+Defendant argued that his conviction for aggravated arson MPC 18-402 was not supported by the
+manifest weight of the evidence and that the State had not offered sufficient evidence of an intent
+to cause physical harm to another person when he acted. Held: Conviction affirmed. The General
+Assembly conspicuously used the “knowingly” mens rea in MPC 18-402, not “purposeful” or
+language that mandates a specific intent to harm. Moreover, all that is needed for a conviction for
+aggravated arson is “to create a substantial risk of serious physical harm to any person other than
+the offender.” While actual harm is sufficient to satisfy MPC 18-402, it is not a necessary
+element if a substantial risk of serious physical harm is present.
+State v. Baker (2000)
+As used in MPC 18-402, “substantial risk” means a strong possibility, as contrasted with a
+remote or significant possibility, that a certain result may occur or that certain circumstances
+may exist.
+State v. Abress (2003)
+Under MPC 18-402, “serious physical harm to any person” means any injury, illness, or other
+physiological impairment, regardless of its gravity or duration, that carries a substantial risk of
+death. “Substantial risk” was previously defined by this Court in State v. Baker.
+State v. Knox (2018)
+As used in MPC 18-402 and 18-403, “create” is synonymous with “cause.” Accordingly,
+“create” has the same definition as “causation” pursuant to MPC 2-201.
+State v. Egloff (1999)
+As used in MPC 18-402 and 18-403, “physical harm” means to explode, burn, char, or otherwise
+destroy or cause damage to the interior structure of a building (e.g., the foundation, support
+beams, or other apparatus that hold the building up) via fire or explosion. Mere smoke damage or
+slight charring of a wall does not constitute arson or aggravated arson. Such actions are better
+charged as criminal damaging or vandalism as appropriate.
+State v. Schoppman (2012)
+As used in MPC 18-403, “defraud” means the act of knowingly obtaining some benefit for
+oneself or another by deception, or knowingly causing some detriment to another person or
+entity by deception.
+State v. Lazzaro (2005)
+Defendant charged with aggravated arson under MPC 18-402(A)(2) argued there was no
+evidence he knew physical harm to an occupied structure by means of fire was likely to result.
+Held: Conviction affirmed. The defendant’s responsibility is not limited to the immediate or
+most obvious result of the defendant’s act or failure to act. The defendant is also responsible for
+the natural and foreseeable results that follow in the ordinary course of events from the act or
+failure to act.
+State v. Sanford (2018)
+Defendant charged with aggravated arson under MPC 18-402(A)(1) for injuries suffered by a
+law enforcement officer responding to the scene. Held: Conviction reversed, and case remanded.
+The trial court failed to instruct the jury on what MPC 18-401(B) means by “any emergency
+personnel who are acting in the course of fighting or investigating the fire.” Here the law
+enforcement officer was off duty when she entered the dwelling to save the occupants. As she
+was not acting within the scope of her job as emergency personnel when she entered the
+dwelling, the jury should have been instructed to consider that fact in deciding whether MPC 18401(B) was satisfied.
+State v. Weinman (2020)
+The General Assembly failed to define “in the course of fighting or investigating the fire” in
+MPC 18-401. Applying the standard practices of statutory interpretation to the phrase leaves us
+with only one conclusion: MPC 18-402(A)(1) only applies to emergency personnel arriving on
+the scene if the personnel are acting within the scope of their employment. Deviations from
+standard operating procedure presents an opportunity for a defendant to argue that the emergency
+personnel were not acting within the scope of their employment, and thus not the class of victim
+contemplated by the General Assembly when drafting MPC 18-401(B). If a defendant elects to
+take on this argument, it must be proven by a preponderance of the evidence. Moreover, even if
+proven, acting outside the scope of employment is not an absolute defense, and, therefore, may
+only result in disproving the aggravating factor necessary for aggravated arson.
+State v. Ullrich (2021)
+Expanding upon our decision in State v. Weinman (2020), we hold that “emergency personnel”
+are within the scope of their employment if they act in substantial compliance with the applicable
+professional code of conduct, rules, or standard operating procedure. While certainly braver than
+the average citizen, they are still human; thus, emergency personnel shall not be held to the
+impossible standard of strict compliance with all applicable professional code of conduct, rules,
+or standard operating procedure while they are dealing with emergency situations.
+State v. French (2015)
+Defendant convicted of arson under MPC 18-403(A)(2) argued that the conviction should be
+overturned because he did not own the property in question because there was a lien on the
+property. Conviction affirmed. MPC 18-403(A)(2) is conspicuous in its language that the
+property may be the property of the offender or another. Defendant’s argument is not well taken
+and is overruled.
+State v. CLAM Rental Properties, Inc. (2021)
+With respect to Midlands Penal Code 18-403(A), the element “intent to defraud” does not
+require the government to prove fraud occurred. A specific intent crime need not result in
+success of the crime, but merely that the defendant had the intent to commit the wrongful act. In
+this case, overwhelming evidence existed that the property manager set fire to her rental
+properties and then filed a claim for an insurance policy payout. Even though the claim was
+denied, the evidence was sufficient to prove the “intent to defraud” element in 18-403(A).
+Burden of Proof / Presumption of Innocence
+State v. Bainbridge (1904)
+In a criminal case, the burden is proof beyond a reasonable doubt with respect to each and every
+element of the charged offense(s). The burden is on the State and never shifts to the defendant.
+State v. Thompson (1981)
+The State’s burden of proof applies to elements, not discrete facts. The question in every case is
+whether cumulative impact of the otherwise-admissible evidence is sufficient to convince the
+fact finder beyond a reasonable doubt that the element has been proven.
+State v. Ball (2015)
+A criminal defendant is never required to present evidence or offer an alternative theory of the
+crime. If a defendant does so, however, a prosecutor may note the defense’s failure to offer
+evidence in support of its theory of the case. Such comments do not imply that the burden of
+proof has shifted to the defense, nor do they necessarily constitute an infringement on a
+defendant’s exercise of the right to remain silent.
+State v. Arun (2016)
+Criminal defendants have a constitutionally protected right to refuse to speak with police officers
+and to decline to testify in their own defense. No prosecutor or witness may comment (expressly
+or implicitly) on a defendant’s exercise of either right or suggest that refusal to testify or
+termination of a police interrogation demonstrates consciousness of guilt.
+State v. Homel (2010)
+It is axiomatic that identification of the defendant is an essential element of the charge in a
+criminal trial. Whether or not the statute explicitly requires identification as an element of the
+offense is a nonstarter. Common law tradition requires the identification of the defendant to
+assure that the government has not charged the wrong person. Identification is a necessary
+function to aid the government in its attempt to overcome the presumption of innocence that is
+afforded every criminal defendant.
+State v. Friedman (2007)
+In Midlands, all criminal trials are bifurcated with a guilt phase followed by a penalty phase.
+State v. Johnson (2009)
+During the guilt phase, evidence is not relevant if it is directed solely to the penalty to be given to
+the defendant if found guilty. It also is improper for an attorney to comment on sentencing or
+discuss potential penalties during the guilt phase of the trial. Such conduct is grounds for a
+mistrial and may constitute conduct for which sanctions are appropriate.
+State v. Chintakayala (2002)
+Under Midlands practice, both sides may always present evidence to prove or rebut any element
+of a charged offense. Neither side may object to such evidence on the ground that the objecting
+party is no longer pursuing (or challenging) the pertinent issue.
+State v. Joseph (1945)
+Unlike some jurisdictions, MRE 615 allows for the sequestration of the lead investigating officer
+in a criminal case if that police officer is not elected to be the State’s representative during
+pretrial matters.
+Kwon v. Mabry (2014)
+Civil case arising from alleged assault. The plaintiff was called as a witness and testified fully on
+direct examination. On cross examination, however, the plaintiff failed to respond to some
+questions, purportedly because of a condition arising from the assault. Held: The judgment for
+the plaintiff must be reversed. The reason why the witness failed to respond to questions on cross
+examination is immaterial. If a witness becomes unable or unwilling to respond to otherwise
+proper questions on cross examination, the trial court must strike the witness’s testimony in its
+entirety.
+Character Evidence
+State v. Gaul (1986)
+Under MRE 404, general evidence of a defendant’s good character is not admissible. However,
+under MRE 404(a)(1), a criminal defendant may offer certain evidence of a “pertinent” character
+trait. The requirement that evidence be “pertinent” significantly exceeds the comparably low bar
+of relevancy. “Pertinence” is a more exacting standard by which the trait itself must directly
+relate to a particular element or facet of the crime charged.
+State v. Ward (2013)
+Given the complex nature of the arson sections of the Midlands Penal Code, the courts have been
+split on what constitutes a “pertinent trait” under MRE 404 and State v. Gaul in arson cases.
+Accordingly, while this list is not exhaustive and every arson case has different elements and
+motives, we find that character traits pertinent to arson cases to include being law-abiding, nonviolent, and a community caretaker.
+State v. Threadgill (2016)
+Appellants challenge the decision of the district court to allow testimony by the State’s witness
+rebutting properly noticed “good character” evidence from the defense under MRE 404(a) during
+the State’s case-in-chief. Due to the lack of rebuttal witnesses in the State of Midlands, our rules
+differ from other jurisdictions, particularly with respect to the presentation of character evidence.
+We hold that the language of MRE 404(a) is clear, that if the defense “opens the door, by noting
+its intention before trial to offer “good character” evidence, the State may use its case in chief to
+offer “bad character” evidence of the defendant regarding the same traits enumerated by the
+defendant, pursuant to the procedures outlined in MRE 405.
+State v. Murray (2010)
+MRE 609 does not categorically exclude evidence of a witness’s prior criminal conviction
+punishable by less than one year of imprisonment, especially when the offense was a crime of
+moral turpitude like fraud, theft, or other crimes of dishonesty. Such evidence may still be
+admissible, subject to the MRE, on a case-by-case basis.
+State v. Smith (2010)
+In accordance with this Court’s reasoning and holding in the civil action of Estate of Hamilton v.
+Walton last year, this Court hereby adopts the same reasoning and holding for criminal actions as
+well. Testimony about a psychological condition does not constitute “[e]vidence of a person’s
+character or character trait,” the only evidence excluded by MRE 404(a)(1).
+Grounds and Basis for Evidentiary Rulings
+State v. Harper (1975)
+The beyond-a-reasonable-doubt burden does not apply to threshold matters involving the
+admissibility of evidence. In Midlands, the proponent of evidence need only prove these
+evidentiary matters by a preponderance of the evidence (i.e., it must establish that all elements
+are more likely than not true).
+Demsky v. Jacoby (2012)
+Under MRE 104(a), when evaluating the admissibility of evidence, a trial court is permitted to
+rely on both admissible and inadmissible evidence. The use of underlying inadmissible evidence
+does not make that inadmissible evidence admissible. Instead, the court is permitted to consider
+the underlying inadmissible evidence to assess the admissibility of the offered evidence. In a jury
+trial, the jury may not always be privy to the underlying facts used to determine what evidence is
+admissible, but the Court may hear it. Previously upheld examples included using character
+evidence to make ruling on hearsay exceptions, using hearsay to make a ruling on character
+evidence, and using hearsay to decide whether an expert has adequate foundation to testify.
+Somani v. Young (1998)
+Under MRE 104(a), courts may consider custodial documents, such as clerks’ certifications or
+affidavits of records keepers, when determining the admissibility of other evidence without
+regard for the admissibility of the custodial document itself. The custodial document typically
+only addresses preliminary matters of admissibility and is not entered into evidence.
+State v. Geasey (2021)
+This case was taken to settle a circuit split that has arisen in Midlands regarding the applicability
+of MRE 411 in criminal cases. The committee notes for MRE 411 are focused on tort law and
+avoiding the improper use of a property owner’s insurance coverage to prove negligence or
+recklessness claims. While the wording of MRE 411 and the committee notes do not bar the use
+of the rule in criminal trials, we hold that MRE 411 does not preclude evidence that the
+defendant owned an insurance policy or evidence that the policy included a payout for loss of
+property. Such evidence is admissible as proof of motive. MRE 411’s language would prohibit
+the government from drawing an impermissible nexus between mere ownership of an insurance
+policy and an assertion that the defendant must have committed the offense(s) charged.
+Authentication
+Gaskins v. Azari (2002)
+As long as the proponent of the statement produces evidence that would permit a reasonable jury
+to find, by a preponderance of the evidence, that a given person made a particular statement, a
+court assessing admissibility must assume that the statement was made by that person.
+Ginger v. Heisman (2015)
+Absent particularized reason to believe that the communication may have been sent by someone
+else, the fact that an electronic communication (an email, text, or social media post) is listed as
+coming from a number or account that is either known or purports to belong to a particular
+person is sufficient foundation that the communication was sent by the person.
+Experts
+Davis v. Adams (1993)
+Trial judges must ensure that any scientific testimony or evidence admitted is not only relevant
+but reliable. In determining reliability, judges should consider only the methods employed and
+the data relied upon, not the conclusions themselves. The proponent of the evidence has the
+burden of proving each section of MRE 702 by a preponderance of the evidence.
+Tarot Readers Association of Midlands v. Merrell Dow (1994)
+In assessing reliability under MRE 702(c), judges should consider whether the theory or
+technique has been or can be tested, whether it has been subjected to peer review and
+publication, whether it has a known error rate, and whether it has gained widespread acceptance
+within the field. These factors, while relevant, are not necessarily dispositive. For example, lack
+of publication does not automatically foreclose admission; sometimes well-grounded but
+innovative theories will not have been published. There is no definitive checklist. Judges must
+make such assessments based on the totality of the circumstances.
+Richards v. Mississippi BBQ (1997)
+Midlands Rule of Evidence 703 does not permit experts to testify or present a chart in a manner
+that simply summarizes inadmissible hearsay without first relating that hearsay to some
+specialized knowledge on the expert’s part. The court must distinguish experts relying on
+otherwise inadmissible hearsay to form scientific conclusions from conduits who merely repeat
+what they are told. The testimony of the former is admissible; that of the latter is not. Of course,
+statements that would otherwise be admissible are not inadmissible simply because they are
+offered by or through an expert witness.
+State v. Richardson (2017)
+It was not an abuse of discretion for the trial court to allow the forensic pathologist to testify to
+the cause and manner of death even though the pathologist was not tendered as an expert prior to
+providing her testimony. Unlike other jurisdictions, Midlands does not require a party to “tender
+an expert” before eliciting an expert opinion. Whether MRE 702 foundational requirements have
+been satisfied is an evidentiary determination that rests within the sound discretion of the trial
+court.
+Kane Software Co. v. Mars Investigations (1995)
+Midlands does not permit parties to use their experts as weapons in a trial by ambush or for
+unfair surprise. Expert reports that are exchanged prior to trial must contain a complete statement
+of all opinions the expert will testify to and the basis and reasons for them, the facts or data
+considered by the expert in forming their opinions, and the expert’s qualifications. Experts are
+strictly prohibited from testifying on direct or redirect examination about any opinions or
+conclusions not stated in their report, and such testimony must be excluded upon a timely
+objection from opposing counsel. For example, an expert may not testify on direct or redirect
+examination that they formed a conclusion based on evidence that came out during trial that the
+expert did not previously review. However, if an expert is asked during cross-examination about
+matters not contained in their report, the expert may freely answer the question as long as the
+answer is responsive.
+State v. Dawson (2012)
+The historical practice of all Midlands circuit court criminal divisions has been proven to be
+consistent with the holding of Kane Software Co. v. Mars Investigations (1995) for criminal
+trials. We interpret the Midlands Rules of Criminal Procedure to be consistent with Kane as well.
+Thus, there can be no doubt that our holding in Kane applies to criminal trials.
+State v. Berzon and Jensen (2020)
+Appellant-Defendants appeal their conviction. Specifically, Appellants argue that the trial court
+improperly excluded testimony from the defense expert on the basis that certain testimony
+amounted to "trial by ambush" under the precedent set by Kane Software v. Mars Investigations
+(1995) and State v. Dawson (2012). Appellants admit that the defense expert was attempting to
+testify to certain underlying facts that were not expressly disclosed in the expert report and that
+such facts contributed to the expert's conclusion, but they argue that the conclusion itself was
+disclosed and thus it was unnecessary for every underlying detail to be disclosed. We believe that
+the Appellants' argument has merit. Experts should not be expected to include in their reports
+every basic scientific fact and known realities that support their conclusion. Such a requirement
+would lead to expert reports that are hundreds, if not thousands, of pages long. For example, an
+accident reconstructionist need not explain Newton’s laws of motion in her report. However, if
+an expert wishes to testify that they believe the indentations on a vehicle’s door means that the
+vehicle collided with a streetlamp at 45 MPH, then measurements, equations, and other relevant
+facts that form the basis for that specific conclusion must be disclosed in the expert’s report.
+Reversed and remanded to the trial court for reconsideration consistent with this decision.
+Hearsay
+America’s Best Cookie v. International House of Waffles (2009)
+The Court recognizes that practices differ in other jurisdictions. But, in Midlands, the definition
+of “hearsay” includes out-of-court statements by a witness who is on the stand or by another
+person who has or will be testifying in a particular trial.
+State v. Hsi (1997)
+MRE 801(d)(2) may be invoked in only one direction in a criminal case. Specifically, MRE
+801(d)(2) permits the State to offer statements by a criminal defendant. Subject to MRE 106,
+MRE 801(d)(2) does not permit the defense to offer the defendant’s own statements, even if the
+State has already elicited other out-of-court statements by a defendant during a preceding
+examination.
+Branham v. Chancellor (2015)
+For purposes of MRE 801(d)(2), police officers, prosecutors, informants, and others working
+with law enforcement officials are not an “opposing party” of a criminal defendant.
+State v. Al Ekri (2012)
+The business-records hearsay exception (MRE 803(6)) cannot be used to “back door” evidence
+that would not be admissible in a criminal case under the public-records hearsay exception of
+MRE 803(8)(ii).
+State v. Orr (2015)
+A public record of a criminal conviction is not a police report and, thus, is not excluded by MRE
+803(8)(A)(ii).
+State v. Brew (1985)
+MRE 801(d)(2) governs statements “offered against an opposing party.” This rule does not
+require the proponent of the evidence to offer the statement “against the party’s interests” in
+order to qualify as an exemption to hearsay under MRE 801(d)(2)—that language is notably only
+found in MRE 804(b)(3). If the drafters of the MRE had wanted 801(d)(2) to only apply if the
+statement was “against the party’s interest,” it would have drafted the rule as such.
